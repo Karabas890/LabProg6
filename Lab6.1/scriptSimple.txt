@@ -1,0 +1,4 @@
+info
+filter_contains_name 10
+help
+remove_head

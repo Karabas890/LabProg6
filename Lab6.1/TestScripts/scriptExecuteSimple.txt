@@ -1,0 +1,3 @@
+execute_script ./TestScripts/scriptSimple.txt
+execute_script ./TestScripts/scriptAdd.txt
+execute_script ./TestScripts/scriptAddIfMin.txt
